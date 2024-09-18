@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-pedro
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/863f7043-1672-489f-be07-fcab45f92332
+  SUBSCRIPTION-ID: 863f7043-1672-489f-be07-fcab45f92332
   WEBAPP-NAME: eshoponweb-webapp-pedro
 
 
